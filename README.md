@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm faseehsiddiqui</h1>
+<h1 align="center">Hi 👋, I'm Faseeh ur Rehman</h1>
 <h3 align="center">I am a MERN-Stack developer at Vvork Cloud Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faseehsiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="faseehsiddiqui" /> </p>
