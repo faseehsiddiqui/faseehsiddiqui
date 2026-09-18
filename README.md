@@ -72,7 +72,4 @@
 
 ✓ Full-stack development from design (Figma) to production deployment
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faseehsiddiqui&show_icons=true&locale=en" alt="faseehsiddiqui" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faseehsiddiqui&" alt="faseehsiddiqui" /></p>
