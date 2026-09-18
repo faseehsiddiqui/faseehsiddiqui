@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faseeh Ur Rehman</h1>
 <h3 align="center">Sr Full-Stack Developer | React • Next.js • Node.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faseehsiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="faseehsiddiqui" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faseehsiddiqui" alt="faseehsiddiqui" /></a> </p>
 
 - 🎯 I'm a Sr Software Engineer with **5+ years** of experience building scalable web applications
 
@@ -21,8 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/faseeh-siddiqui-b07063243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://fb.com/faseeh ur rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faseeh ur rehman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/faseeh-ur-rehman-b07063243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🚀 Shipped Products:</h3>
